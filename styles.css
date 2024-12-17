@@ -18,16 +18,26 @@ h1 {
 
 }
 
-#lasagna {
+.lasagna {
     color: orange;
 
 }
 
-#chicken {
+.chicken {
     color: hsl(63, 65%, 71%);
 }
 
-#tacos {
+.tacos {
     color:  brown;
+
+} 
+
+.ingredients {
+    color: green;
+
+}
+
+.steps {
+    color: darkcyan;
 
 }
