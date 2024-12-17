@@ -1,3 +1,8 @@
+h1 {
+    text-align: center;
+
+}
+
 .titles {
     font-family: 'Courier New', Courier, serif;
 
@@ -8,7 +13,7 @@
 }
 
 #main-title {
-    text-align: center;
+
     color: hsl(242, 65%, 71%);
 
 }
@@ -20,4 +25,9 @@
 
 #chicken {
     color: hsl(63, 65%, 71%);
+}
+
+#tacos {
+    color:  brown;
+
 }
