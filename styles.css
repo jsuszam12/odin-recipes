@@ -1,0 +1,23 @@
+.titles {
+    font-family: 'Courier New', Courier, serif;
+
+}
+
+.main-recipes {
+    font-family: 'Courier New', Courier, serif;
+}
+
+#main-title {
+    text-align: center;
+    color: hsl(242, 65%, 71%);
+
+}
+
+#lasagna {
+    color: orange;
+
+}
+
+#chicken {
+    color: hsl(63, 65%, 71%);
+}
